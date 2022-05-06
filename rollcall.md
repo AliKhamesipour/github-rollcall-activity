@@ -5,7 +5,7 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
-* Ali Khamesipour, CityUniversity of Seattle
+* Ali Khamesipour, City University of Seattle
    * GitHub: AliKhameispour
    * Email: khamesipourali@cityu.edu
 
